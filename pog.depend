@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1670075176 source:c:\users\zain\documents\prog\pog\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+	<math.h>
+	<stdlib.h>
+	<opencv2/objdetect/objdetect.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/dnn.hpp>
+	<opencv2/opencv_modules.hpp>
+	<windows.h>
+	<winuser.h>
+	<istream>
+	<ostream>
+	<opencv2/imgcodecs.hpp>
+	<opencv2/core/types.hpp>
+
